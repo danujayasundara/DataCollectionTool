@@ -1,0 +1,23 @@
+# Node modules (for both frontend & backend)
+**/node_modules/
+
+# Build folders
+**/dist/
+**/build/
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+
+# Env files
+**/.env
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# TypeScript build cache
+**/*.tsbuildinfo
